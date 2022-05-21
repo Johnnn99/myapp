@@ -1,0 +1,9 @@
+D:\DDOCP\be\New folder\Test 12\Test 12\bin\Debug\Test 12.exe.config
+D:\DDOCP\be\New folder\Test 12\Test 12\obj\Debug\Test 12.csprojResolveAssemblyReference.cache
+D:\DDOCP\be\New folder\Test 12\Test 12\obj\Debug\Test_12.Form1.resources
+D:\DDOCP\be\New folder\Test 12\Test 12\obj\Debug\Test_12.Properties.Resources.resources
+D:\DDOCP\be\New folder\Test 12\Test 12\obj\Debug\Test 12.csproj.GenerateResource.Cache
+D:\DDOCP\be\New folder\Test 12\Test 12\bin\Debug\Test 12.exe
+D:\DDOCP\be\New folder\Test 12\Test 12\bin\Debug\Test 12.pdb
+D:\DDOCP\be\New folder\Test 12\Test 12\obj\Debug\Test 12.exe
+D:\DDOCP\be\New folder\Test 12\Test 12\obj\Debug\Test 12.pdb

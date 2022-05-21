@@ -1,0 +1,9 @@
+D:\DDOCP\be\New folder\Test16\Test16\bin\Debug\Test16.exe.config
+D:\DDOCP\be\New folder\Test16\Test16\bin\Debug\Test16.exe
+D:\DDOCP\be\New folder\Test16\Test16\bin\Debug\Test16.pdb
+D:\DDOCP\be\New folder\Test16\Test16\obj\Debug\Test16.csprojResolveAssemblyReference.cache
+D:\DDOCP\be\New folder\Test16\Test16\obj\Debug\Test16.Form1.resources
+D:\DDOCP\be\New folder\Test16\Test16\obj\Debug\Test16.Properties.Resources.resources
+D:\DDOCP\be\New folder\Test16\Test16\obj\Debug\Test16.csproj.GenerateResource.Cache
+D:\DDOCP\be\New folder\Test16\Test16\obj\Debug\Test16.exe
+D:\DDOCP\be\New folder\Test16\Test16\obj\Debug\Test16.pdb

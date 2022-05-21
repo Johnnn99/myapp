@@ -1,0 +1,27 @@
+div{
+    background-color: yellow;
+}
+p,h2{
+    color: green;
+}
+div>div>div>h2{
+    color: blue;
+}
+p+p{
+    color: cyan;
+}
+h2+p{
+    color: blueviolet;
+}
+div+div{
+    color: red;
+}
+input[type=text]{
+    background-color: brown;
+}
+button{
+    background-color: blueviolet;
+}
+input[type=submit]{
+    background-color: aqua;
+}

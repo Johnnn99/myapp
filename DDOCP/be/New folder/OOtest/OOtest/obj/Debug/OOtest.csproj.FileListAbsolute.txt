@@ -1,0 +1,6 @@
+D:\DDOCP\be\New folder\OOtest\OOtest\bin\Debug\OOtest.exe.config
+D:\DDOCP\be\New folder\OOtest\OOtest\obj\Debug\OOtest.csprojResolveAssemblyReference.cache
+D:\DDOCP\be\New folder\OOtest\OOtest\bin\Debug\OOtest.exe
+D:\DDOCP\be\New folder\OOtest\OOtest\bin\Debug\OOtest.pdb
+D:\DDOCP\be\New folder\OOtest\OOtest\obj\Debug\OOtest.exe
+D:\DDOCP\be\New folder\OOtest\OOtest\obj\Debug\OOtest.pdb

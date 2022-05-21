@@ -1,0 +1,157 @@
+.box{
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    animation: canimation 3s infinite;
+    animation-delay: 2s;
+}
+@keyframes canimation {
+    0%{
+        transform: translate(50px,50px);
+    }
+    /* 50%{
+        transform: translate(100px,100px);
+    } */
+    100%{
+        transform: translate(50px,500px);
+    }
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    border: 3px red solid;
+    background-color: blue;
+    position: absolute;
+    left: 40px;
+    top: 40px;
+    z-index: 3;
+    /* border-radius: 50px; */
+    animation: sanimation 3s infinite;
+}
+@keyframes sanimation {
+    0%{
+        transform: skew(30deg,30deg);
+    }
+    100%{
+        transform: skew(-30deg,-30deg);
+    }
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    border: 3px red solid;
+    background-color: green;
+    position: absolute;
+    left: 60px;
+    top: 60px;
+    z-index: 2;
+    animation: eanimation 3s infinite;
+}
+@keyframes eanimation {
+    0%{
+        transform: translate(50px,50px);
+    }
+    50%{
+        transform: translate(100px,100px);
+    }
+    100%{
+        transform: translate(-50px,-50px);
+    }
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    border: 3px red solid;
+    background-color: brown;
+    position: absolute;
+    left: 80px;
+    top: 80px;
+    animation: banimation 3s infinite;
+}
+@keyframes banimation {
+    0%{
+        transform: rotate(30deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+.olympic{
+    margin-top: 50px;
+    display: flex;
+    background-color: aqua;
+    height: 200px;
+    width: 500px;
+    position: relative;
+    animation: zanimation 3s infinite;
+    animation-delay: 2s;
+}
+@keyframes zanimation {
+    0%{
+        transform: translate(50px,50px);
+    }
+    50%{
+        transform: translate(900px,50px);
+    }
+    100%{
+        transform: translate(900px,-500px);
+    }
+}
+
+.oly1{
+    border: 2px solid blue;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+
+}
+.oly2{
+    border: 2px solid yellow;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+position: absolute;
+top: 50px;
+left: 60px;
+}
+.oly3{
+    border: 2px solid green;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+position: absolute;
+top: 50px;
+left: 170px;
+}
+.oly4{
+    border: 2px solid black;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+position: absolute;
+
+left: 112px;
+}
+.oly5{
+    border: 2px solid red;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+position: absolute;
+
+left: 222px;
+}
+span{
+    position: relative;
+}
+.title-line::before{
+    content:'' ;
+    width: 120px;
+    height: 3px;
+    background: red;
+    position: absolute;
+    top: 15px;
+}

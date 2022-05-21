@@ -1,0 +1,9 @@
+D:\DDOCP\be\New folder\Test10 sum\Test10 sum\bin\Debug\Test10 sum.exe.config
+D:\DDOCP\be\New folder\Test10 sum\Test10 sum\bin\Debug\Test10 sum.exe
+D:\DDOCP\be\New folder\Test10 sum\Test10 sum\bin\Debug\Test10 sum.pdb
+D:\DDOCP\be\New folder\Test10 sum\Test10 sum\obj\Debug\Test10 sum.csprojResolveAssemblyReference.cache
+D:\DDOCP\be\New folder\Test10 sum\Test10 sum\obj\Debug\Test10_sum.Form1.resources
+D:\DDOCP\be\New folder\Test10 sum\Test10 sum\obj\Debug\Test10_sum.Properties.Resources.resources
+D:\DDOCP\be\New folder\Test10 sum\Test10 sum\obj\Debug\Test10 sum.csproj.GenerateResource.Cache
+D:\DDOCP\be\New folder\Test10 sum\Test10 sum\obj\Debug\Test10 sum.exe
+D:\DDOCP\be\New folder\Test10 sum\Test10 sum\obj\Debug\Test10 sum.pdb

@@ -1,0 +1,33 @@
+img{
+    float: left;
+}
+
+.col1{
+    float: left;
+    width: 30%;
+}
+.col2{
+    color: orange;
+}
+.jj{
+    color: darkcyan;
+}
+
+.container1{
+    clear: left;
+}
+.col{
+    border: 3px solid gray;
+    height: 400px;
+    width: 400px;
+    float: left;
+    margin: 10px;
+    
+}
+.col3{
+    border: 3px solid gray;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 20px;
+}

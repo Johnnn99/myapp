@@ -1,0 +1,8 @@
+D:\DDOCP\be\New folder\Text6\Text6\bin\Debug\Text6.exe.config
+D:\DDOCP\be\New folder\Text6\Text6\bin\Debug\Text6.exe
+D:\DDOCP\be\New folder\Text6\Text6\bin\Debug\Text6.pdb
+D:\DDOCP\be\New folder\Text6\Text6\obj\Debug\Text6.Form1.resources
+D:\DDOCP\be\New folder\Text6\Text6\obj\Debug\Text6.Properties.Resources.resources
+D:\DDOCP\be\New folder\Text6\Text6\obj\Debug\Text6.csproj.GenerateResource.Cache
+D:\DDOCP\be\New folder\Text6\Text6\obj\Debug\Text6.exe
+D:\DDOCP\be\New folder\Text6\Text6\obj\Debug\Text6.pdb

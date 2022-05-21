@@ -1,0 +1,14 @@
+E:\DDOCP\assigmentsample1\assigmentsample1\bin\Debug\assigmentsample1.exe.config
+E:\DDOCP\assigmentsample1\assigmentsample1\bin\Debug\assigmentsample1.exe
+E:\DDOCP\assigmentsample1\assigmentsample1\bin\Debug\assigmentsample1.pdb
+E:\DDOCP\assigmentsample1\assigmentsample1\obj\Debug\assigmentsample1.csprojResolveAssemblyReference.cache
+E:\DDOCP\assigmentsample1\assigmentsample1\obj\Debug\assigmentsample1.Form1.resources
+E:\DDOCP\assigmentsample1\assigmentsample1\obj\Debug\assigmentsample1.Properties.Resources.resources
+E:\DDOCP\assigmentsample1\assigmentsample1\obj\Debug\assigmentsample1.csproj.GenerateResource.Cache
+E:\DDOCP\assigmentsample1\assigmentsample1\obj\Debug\assigmentsample1.exe
+E:\DDOCP\assigmentsample1\assigmentsample1\obj\Debug\assigmentsample1.pdb
+E:\DDOCP\assigmentsample1\assigmentsample1\obj\Debug\assigmentsample1.Accountregister.resources
+E:\DDOCP\assigmentsample1\assigmentsample1\obj\Debug\assigmentsample1.Customer.resources
+D:\DDOCP\assigmentsample1\assigmentsample1\bin\Debug\assigmentsample1.exe.config
+D:\DDOCP\assigmentsample1\assigmentsample1\obj\Debug\assigmentsample1.exe
+D:\DDOCP\assigmentsample1\assigmentsample1\obj\Debug\assigmentsample1.pdb

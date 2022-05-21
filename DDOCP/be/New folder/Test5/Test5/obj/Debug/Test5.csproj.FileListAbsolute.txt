@@ -1,0 +1,9 @@
+D:\DDOCP\be\New folder\Test5\Test5\bin\Debug\Test5.exe.config
+D:\DDOCP\be\New folder\Test5\Test5\bin\Debug\Test5.exe
+D:\DDOCP\be\New folder\Test5\Test5\bin\Debug\Test5.pdb
+D:\DDOCP\be\New folder\Test5\Test5\obj\Debug\Test5.csprojResolveAssemblyReference.cache
+D:\DDOCP\be\New folder\Test5\Test5\obj\Debug\Test5.Form1.resources
+D:\DDOCP\be\New folder\Test5\Test5\obj\Debug\Test5.Properties.Resources.resources
+D:\DDOCP\be\New folder\Test5\Test5\obj\Debug\Test5.csproj.GenerateResource.Cache
+D:\DDOCP\be\New folder\Test5\Test5\obj\Debug\Test5.exe
+D:\DDOCP\be\New folder\Test5\Test5\obj\Debug\Test5.pdb

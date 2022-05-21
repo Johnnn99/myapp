@@ -1,0 +1,7 @@
+E:\DDOCP\assigmentsimple2\assigmentsimple2\bin\Debug\assigmentsimple2.exe.config
+F:\assigmentsimple2\assigmentsimple2\bin\Debug\assigmentsimple2.exe.config
+D:\DDOCP\assigmentsimple2\assigmentsimple2\bin\Debug\assigmentsimple2.exe.config
+D:\DDOCP\assigmentsimple2\assigmentsimple2\obj\Debug\assigmentsimple2.csprojResolveAssemblyReference.cache
+D:\DDOCP\assigmentsimple2\assigmentsimple2\obj\Debug\assigmentsimple2.Form1.resources
+D:\DDOCP\assigmentsimple2\assigmentsimple2\obj\Debug\assigmentsimple2.Properties.Resources.resources
+D:\DDOCP\assigmentsimple2\assigmentsimple2\obj\Debug\assigmentsimple2.csproj.GenerateResource.Cache

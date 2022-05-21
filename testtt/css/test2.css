@@ -1,0 +1,17 @@
+img{
+    float: left;
+}
+.col1{
+    float: left;
+    width: 40%;
+}
+.col3{
+    clear: left;
+    width: 70%;
+}
+.col{
+    border: 3px solid gray;
+    height: 300px;
+    width: 200px;
+    float: left;
+}

@@ -1,0 +1,16 @@
+D:\DDOCP Dec 2018\ArrayfileBank\ArrayfileBank\bin\Debug\ArrayfileBank.exe.config
+D:\DDOCP Dec 2018\ArrayfileBank\ArrayfileBank\bin\Debug\ArrayfileBank.exe
+D:\DDOCP Dec 2018\ArrayfileBank\ArrayfileBank\bin\Debug\ArrayfileBank.pdb
+D:\DDOCP Dec 2018\ArrayfileBank\ArrayfileBank\obj\Debug\ArrayfileBank.csprojResolveAssemblyReference.cache
+D:\DDOCP Dec 2018\ArrayfileBank\ArrayfileBank\obj\Debug\ArrayfileBank.Form1.resources
+D:\DDOCP Dec 2018\ArrayfileBank\ArrayfileBank\obj\Debug\ArrayfileBank.Properties.Resources.resources
+D:\DDOCP Dec 2018\ArrayfileBank\ArrayfileBank\obj\Debug\ArrayfileBank.csproj.GenerateResource.Cache
+D:\DDOCP Dec 2018\ArrayfileBank\ArrayfileBank\obj\Debug\ArrayfileBank.exe
+D:\DDOCP Dec 2018\ArrayfileBank\ArrayfileBank\obj\Debug\ArrayfileBank.pdb
+D:\DDOCP\ArrayfileBank\ArrayfileBank\bin\Debug\ArrayfileBank.exe.config
+D:\DDOCP\ArrayfileBank\ArrayfileBank\obj\Debug\ArrayfileBank.exe
+D:\DDOCP\ArrayfileBank\ArrayfileBank\obj\Debug\ArrayfileBank.pdb
+D:\DDOCP\ArrayfileBank\ArrayfileBank\obj\Debug\ArrayfileBank.csprojResolveAssemblyReference.cache
+D:\DDOCP\ArrayfileBank\ArrayfileBank\obj\Debug\ArrayfileBank.Form1.resources
+D:\DDOCP\ArrayfileBank\ArrayfileBank\obj\Debug\ArrayfileBank.Properties.Resources.resources
+D:\DDOCP\ArrayfileBank\ArrayfileBank\obj\Debug\ArrayfileBank.csproj.GenerateResource.Cache

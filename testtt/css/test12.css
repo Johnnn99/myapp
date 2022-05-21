@@ -1,0 +1,89 @@
+nav{
+    width:  100%;
+    height: 100px;
+    background-color: royalblue;
+    color: black;
+}
+.row{
+    margin-right: 50px;
+}
+.col1{
+    float: right;
+    width: 100px;
+    height: 100px;
+    background-color: peachpuff;
+}
+.col2{
+    float: right;
+    width: 100px;
+    height: 100px;
+    background-color: darkblue;
+}
+.col3{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(6, 74, 151);
+}
+.col4{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(128, 6, 128);
+}
+.col5{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(23, 151, 6);
+}
+
+.jj{
+    margin-left: 60px;
+}
+
+a{
+    text-decoration: none;
+    margin: 20px;
+    line-height: 90px;
+}
+.col1:hover{
+    background-color: black;
+    color: red;
+}
+.col2:hover{
+    background-color: rgb(19, 175, 149);
+    color: red;
+}
+.col3:hover{
+    background-color: rgb(41, 4, 248);
+    color: red;
+}
+.col4:hover{
+    background-color: rgb(41, 4, 248);
+    color: red;
+}
+.col5:hover{
+    background-color: rgb(41, 4, 248);
+    color: red;
+}
+.container{
+    width: 300px;
+    height: 500px;
+    border: 2px solid red;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    border: 2px solid lightgreen;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    border: 2px solid lightsalmon;
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    border: 2px solid lightblue;
+}

@@ -1,0 +1,102 @@
+D:\DDOCP\New folder (7)\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\DDOCP\New folder (7)\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\DDOCP\New folder (7)\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.Form1.resources
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.Gameplay.resources
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.Language.resources
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.Login.resources
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.Register.resources
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.Result.resources
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.StartingForm.resources
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.wordset.resources
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.pdb
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.Wordrepair.resources
+D:\DDOCP\New folder (7)\Assignment\Assignment\obj\Debug\Assignment.Wordsetrepair.resources
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.exe.config
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.exe
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.pdb
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.exe
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.pdb
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Form1.resources
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Gameplay.resources
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Language.resources
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Login.resources
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Register.resources
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Result.resources
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.StartingForm.resources
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Wordrepair.resources
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.wordset.resources
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Wordsetrepair.resources
+F:\DDOOCP ASSIGNMENT\9.APR..2019\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+G:\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.exe.config
+G:\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.exe
+G:\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.pdb
+D:\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.exe.config
+D:\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.exe
+D:\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.pdb
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.exe
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.pdb
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\AssignmentDb.mdf
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\AssignmentDb_log.ldf
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.exe
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.pdb
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Form1.resources
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Gameplay.resources
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Language.resources
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Login.resources
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Register.resources
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Result.resources
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.StartingForm.resources
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Wordrepair.resources
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.wordset.resources
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Wordsetrepair.resources
+C:\Users\user\Downloads\Assignments\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.exe.config
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.exe
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.pdb
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.exe.config
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.exe
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.pdb
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\AssignmentDb.mdf
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\AssignmentDb_log.ldf
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.exe
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.pdb
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Form1.resources
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Gameplay.resources
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Language.resources
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Login.resources
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Register.resources
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Result.resources
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.StartingForm.resources
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Wordrepair.resources
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.wordset.resources
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Wordsetrepair.resources
+E:\3. NVL Works\Current DDOCP\newCode 22.4.19\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\AssignmentDb.mdf
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\AssignmentDb_log.ldf
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.exe
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\bin\Debug\Assignment.pdb
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Form1.resources
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Gameplay.resources
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Language.resources
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Login.resources
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Register.resources
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Result.resources
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.StartingForm.resources
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Wordrepair.resources
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.wordset.resources
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.Wordsetrepair.resources
+D:\DDOCP\00178341_KHANT LIN HTIKE_DDOOCP\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache

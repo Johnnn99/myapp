@@ -1,0 +1,9 @@
+D:\DDOCP\be\New folder\primenumberslooping\primenumberslooping\bin\Debug\primenumberslooping.exe.config
+D:\DDOCP\be\New folder\primenumberslooping\primenumberslooping\obj\Debug\primenumberslooping.csprojResolveAssemblyReference.cache
+D:\DDOCP\be\New folder\primenumberslooping\primenumberslooping\obj\Debug\primenumberslooping.Form1.resources
+D:\DDOCP\be\New folder\primenumberslooping\primenumberslooping\obj\Debug\primenumberslooping.Properties.Resources.resources
+D:\DDOCP\be\New folder\primenumberslooping\primenumberslooping\obj\Debug\primenumberslooping.csproj.GenerateResource.Cache
+D:\DDOCP\be\New folder\primenumberslooping\primenumberslooping\bin\Debug\primenumberslooping.exe
+D:\DDOCP\be\New folder\primenumberslooping\primenumberslooping\bin\Debug\primenumberslooping.pdb
+D:\DDOCP\be\New folder\primenumberslooping\primenumberslooping\obj\Debug\primenumberslooping.exe
+D:\DDOCP\be\New folder\primenumberslooping\primenumberslooping\obj\Debug\primenumberslooping.pdb

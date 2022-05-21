@@ -1,0 +1,9 @@
+D:\DDOCP\be\New folder\Test2operators\Test2operators\bin\Debug\Test2operators.exe.config
+D:\DDOCP\be\New folder\Test2operators\Test2operators\obj\Debug\Test2operators.csprojResolveAssemblyReference.cache
+D:\DDOCP\be\New folder\Test2operators\Test2operators\obj\Debug\Test2operators.Form1.resources
+D:\DDOCP\be\New folder\Test2operators\Test2operators\obj\Debug\Test2operators.Properties.Resources.resources
+D:\DDOCP\be\New folder\Test2operators\Test2operators\obj\Debug\Test2operators.csproj.GenerateResource.Cache
+D:\DDOCP\be\New folder\Test2operators\Test2operators\bin\Debug\Test2operators.exe
+D:\DDOCP\be\New folder\Test2operators\Test2operators\bin\Debug\Test2operators.pdb
+D:\DDOCP\be\New folder\Test2operators\Test2operators\obj\Debug\Test2operators.exe
+D:\DDOCP\be\New folder\Test2operators\Test2operators\obj\Debug\Test2operators.pdb

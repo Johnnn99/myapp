@@ -1,0 +1,9 @@
+D:\DDOCP\be\New folder\Test9\Test9\bin\Debug\Test9.exe.config
+D:\DDOCP\be\New folder\Test9\Test9\bin\Debug\Test9.exe
+D:\DDOCP\be\New folder\Test9\Test9\bin\Debug\Test9.pdb
+D:\DDOCP\be\New folder\Test9\Test9\obj\Debug\Test9.csprojResolveAssemblyReference.cache
+D:\DDOCP\be\New folder\Test9\Test9\obj\Debug\Test9.Form1.resources
+D:\DDOCP\be\New folder\Test9\Test9\obj\Debug\Test9.Properties.Resources.resources
+D:\DDOCP\be\New folder\Test9\Test9\obj\Debug\Test9.csproj.GenerateResource.Cache
+D:\DDOCP\be\New folder\Test9\Test9\obj\Debug\Test9.exe
+D:\DDOCP\be\New folder\Test9\Test9\obj\Debug\Test9.pdb

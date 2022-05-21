@@ -1,0 +1,6 @@
+D:\DDOCP\be\New folder\OO\OO\bin\Debug\OO.exe.config
+D:\DDOCP\be\New folder\OO\OO\obj\Debug\OO.csprojResolveAssemblyReference.cache
+D:\DDOCP\be\New folder\OO\OO\bin\Debug\OO.exe
+D:\DDOCP\be\New folder\OO\OO\bin\Debug\OO.pdb
+D:\DDOCP\be\New folder\OO\OO\obj\Debug\OO.exe
+D:\DDOCP\be\New folder\OO\OO\obj\Debug\OO.pdb

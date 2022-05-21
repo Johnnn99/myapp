@@ -1,0 +1,9 @@
+D:\DDOCP\be\New folder\Assignmentsample1\Assignmentsample1\bin\Debug\Assignmentsample1.exe.config
+D:\DDOCP\be\New folder\Assignmentsample1\Assignmentsample1\bin\Debug\Assignmentsample1.exe
+D:\DDOCP\be\New folder\Assignmentsample1\Assignmentsample1\bin\Debug\Assignmentsample1.pdb
+D:\DDOCP\be\New folder\Assignmentsample1\Assignmentsample1\obj\Debug\Assignmentsample1.csprojResolveAssemblyReference.cache
+D:\DDOCP\be\New folder\Assignmentsample1\Assignmentsample1\obj\Debug\Assignmentsample1.Form1.resources
+D:\DDOCP\be\New folder\Assignmentsample1\Assignmentsample1\obj\Debug\Assignmentsample1.Properties.Resources.resources
+D:\DDOCP\be\New folder\Assignmentsample1\Assignmentsample1\obj\Debug\Assignmentsample1.csproj.GenerateResource.Cache
+D:\DDOCP\be\New folder\Assignmentsample1\Assignmentsample1\obj\Debug\Assignmentsample1.exe
+D:\DDOCP\be\New folder\Assignmentsample1\Assignmentsample1\obj\Debug\Assignmentsample1.pdb

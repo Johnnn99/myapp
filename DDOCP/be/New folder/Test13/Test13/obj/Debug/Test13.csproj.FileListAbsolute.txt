@@ -1,0 +1,9 @@
+D:\DDOCP\be\New folder\Test13\Test13\bin\Debug\Test13.exe.config
+D:\DDOCP\be\New folder\Test13\Test13\bin\Debug\Test13.exe
+D:\DDOCP\be\New folder\Test13\Test13\bin\Debug\Test13.pdb
+D:\DDOCP\be\New folder\Test13\Test13\obj\Debug\Test13.csprojResolveAssemblyReference.cache
+D:\DDOCP\be\New folder\Test13\Test13\obj\Debug\Test13.Form1.resources
+D:\DDOCP\be\New folder\Test13\Test13\obj\Debug\Test13.Properties.Resources.resources
+D:\DDOCP\be\New folder\Test13\Test13\obj\Debug\Test13.csproj.GenerateResource.Cache
+D:\DDOCP\be\New folder\Test13\Test13\obj\Debug\Test13.exe
+D:\DDOCP\be\New folder\Test13\Test13\obj\Debug\Test13.pdb

@@ -1,0 +1,38 @@
+@import url(https://fonts.google.com/specimen/PT+Serif?query=pt);
+@font-face {
+    font-family: 'my font';
+    src: url('../Fonts/PT_Serif/PTSerif-BoldItalic.ttf');
+}
+h2{
+    text-align: center;
+    text-decoration: underline red;
+    text-transform: uppercase;
+    font-family: 'Tapestry', cursive;
+    font-size: 50px;
+    font-style:inherit;
+    color: cyan;
+}
+p{
+    text-align: start;
+    text-decoration: lightseagreen;
+    text-indent: 50px;
+    font-family: ''PT Serif', serif';
+    font-size: 20px;
+    color: green;
+    
+    
+}
+h3{
+    font-family:'my font';
+    font-size: 35px;
+}
+h4{
+    color: red
+}
+a{
+    color: blueviolet
+    
+    text-decoration: ;
+    font-style: italic;
+}
+
